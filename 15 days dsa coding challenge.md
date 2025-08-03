@@ -11,3 +11,8 @@ Looking forward to the surprise he mentioned for those who follow it consistentl
   - Two Sum
   - Maximum Subarray
   - Remove Duplicates from Sorted Array
+
+- Day 2:
+  - Best time to buy and sell stocks
+  - Valid palindrome
+  - product of array except self
